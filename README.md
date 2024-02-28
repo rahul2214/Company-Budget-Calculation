@@ -69,3 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Company-Budget-Calculation
+![company-budget](https://github.com/rahul2214/Company-Budget-Calculation/assets/109754034/71c9d62e-dcb2-44c9-bc50-b9d060aae486)
